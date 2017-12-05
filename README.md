@@ -1,6 +1,8 @@
 # Pendu
 Simple client/server pendu program written in c
 
+Programme réalisé en 3ème année de licence
+
 ## Résumé
 
 Je vous présente mon petit programme de modèle client-serveur avec le jeu du pendu.
